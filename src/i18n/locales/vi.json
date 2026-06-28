@@ -1,0 +1,260 @@
+{
+  "nav": {
+    "about": "Giới thiệu",
+    "skills": "Kỹ năng",
+    "projects": "Dự án",
+    "tools": "Công cụ",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "greeting": "Xin chào, tôi là",
+    "title": "TRỊNH TRIỆU LUÂN",
+    "subtitle": "SEO Specialist & Web Developer",
+    "description": "Gần 2 năm kinh nghiệm thực chiến, tăng organic traffic từ 0 lên 134K+/tháng. Tôi kết hợp SEO và Web Development — tự triển khai kỹ thuật, tự build công cụ và mở rộng sang thị trường quốc tế.",
+    "ctaProjects": "Xem dự án",
+    "ctaContact": "Liên hệ ngay",
+    "stats": {
+      "projects": "Dự án cùng lúc",
+      "traffic": "Traffic đỉnh/tháng",
+      "keywords": "Từ khóa cạnh tranh",
+      "growth": "Tăng trưởng trong 3 tháng"
+    }
+  },
+  "about": {
+    "title": "Về tôi",
+    "subtitle": "SEO Specialist kiêm Web Developer",
+    "description1": "Tôi là SEO Specialist với gần 2 năm kinh nghiệm thực chiến, chuyên xây dựng website từ đầu — từ domain mới (zero traffic) đến hàng trăm nghìn lượt truy cập mỗi tháng.",
+    "description2": "Điểm khác biệt của tôi là kết hợp SEO với Web Development: tự triển khai technical SEO, tự build tool/plugin nội bộ, và xử lý front-end mà không phụ thuộc vào team kỹ thuật.",
+    "description3": "Hiện mở rộng sang thị trường quốc tế (proxy, VPN, APK) với kinh nghiệm SEO tiếng Anh, và tích hợp AI vào toàn bộ quy trình làm việc.",
+    "approach": {
+      "title": "Phương pháp làm việc",
+      "dataDriven": {
+        "title": "Data-Driven",
+        "desc": "Quyết định dựa trên dữ liệu Ahrefs, GSC và GA4"
+      },
+      "semantic": {
+        "title": "SEO + DEV Hybrid",
+        "desc": "Triển khai end-to-end, không phụ thuộc team kỹ thuật"
+      },
+      "authority": {
+        "title": "Thị trường quốc tế",
+        "desc": "SEO tiếng Anh cho proxy, VPN, APK — cạnh tranh toàn cầu"
+      },
+      "technical": {
+        "title": "AI-driven Workflow",
+        "desc": "Tích hợp AI vào research, audit và tự build công cụ"
+      }
+    },
+    "stats": {
+      "traffic": "Traffic đỉnh/tháng",
+      "projects": "Dự án cùng lúc",
+      "growth": "Tăng trưởng trong 3 tháng",
+      "keywords": "Từ khóa cạnh tranh"
+    }
+  },
+  "skills": {
+    "title": "Kỹ năng chuyên môn",
+    "subtitle": "SEO toàn diện kết hợp Web Development",
+    "technical": {
+      "title": "Technical SEO",
+      "items": [
+        "Site Audit & Fix",
+        "Core Web Vitals",
+        "Schema Markup",
+        "Canonical & Redirect",
+        "E-E-A-T Optimization"
+      ]
+    },
+    "onpage": {
+      "title": "On-Page & Offpage",
+      "items": [
+        "Keyword Research & Mapping",
+        "Semantic SEO",
+        "Internal Linking (Silo)",
+        "Link Building",
+        "Competitor Analysis"
+      ]
+    },
+    "content": {
+      "title": "Web Development",
+      "items": [
+        "HTML / CSS / JavaScript",
+        "WordPress & Plugin Dev",
+        "Tự build công cụ SEO nội bộ",
+        "Tối ưu tốc độ trang",
+        "UX/UI cơ bản"
+      ]
+    },
+    "tools": {
+      "title": "Analytics & Reporting",
+      "items": [
+        "Google Analytics 4",
+        "Google Search Console",
+        "KPI Dashboard",
+        "Phân tích traffic",
+        "Theo dõi thứ hạng từ khóa"
+      ]
+    },
+    "analytics": {
+      "title": "AI & Tự động hóa",
+      "items": [
+        "AI-driven Content Brief",
+        "Tự động hóa SEO Audit",
+        "ChatGPT / Claude Workflow",
+        "Phát triển Plugin tùy chỉnh",
+        "Tự động hóa quy trình"
+      ]
+    }
+  },
+  "projects": {
+    "title": "Dự án tiêu biểu",
+    "subtitle": "Số liệu thực từ Ahrefs",
+    "featured": {
+      "label": "Dự án nổi bật nhất",
+      "industry": "Lĩnh vực: APK Download (Thị trường quốc tế)",
+      "duration": "Công ty: Ecomkey JSC | 06/2025 – 03/2026",
+      "results": "Kết quả đạt được",
+      "traffic": {
+        "label": "Traffic đỉnh",
+        "from": "0",
+        "to": "134K+",
+        "desc": "happymod.cx — từ domain mới trong vòng chưa đầy 1 năm"
+      },
+      "keywords": {
+        "label": "Trang được index",
+        "value": "153",
+        "desc": "Trang được index trên happymod.cx"
+      },
+      "revenue": {
+        "label": "Dự án quản lý",
+        "value": "6+",
+        "desc": "Dự án song song tại Ecomkey"
+      },
+      "strategy": {
+        "title": "Chiến lược triển khai",
+        "website": {
+          "title": "Web Development",
+          "items": [
+            "Xây dựng front-end từ đầu (domain mới hoàn toàn)",
+            "Cấu trúc website chuẩn SEO",
+            "Tối ưu tốc độ & Core Web Vitals",
+            "Tự build plugin và công cụ nội bộ",
+            "Tự deploy tính năng mới độc lập",
+            "Tối ưu UX/UI tăng chuyển đổi"
+          ]
+        },
+        "seo": {
+          "title": "SEO Implementation",
+          "items": [
+            "Keyword research & mapping cho thị trường APK",
+            "Onpage SEO toàn diện (meta, schema, canonical)",
+            "Internal linking theo mô hình Silo",
+            "Offpage SEO & link building",
+            "Schema: Article, Breadcrumb, Organization, FAQ",
+            "Tối ưu Core Web Vitals & E-E-A-T",
+            "Audit định kỳ qua Ahrefs + Screaming Frog"
+          ]
+        }
+      }
+    },
+    "other": {
+      "title": "Dự án khác",
+      "subtitle": "Đa dạng ngách, thị trường trong nước và quốc tế",
+      "items": [
+        {
+          "name": "dlmod.me",
+          "desc": "APK Download — đạt 127K+ traffic/tháng từ domain mới",
+          "category": "SEO Quốc tế"
+        },
+        {
+          "name": "apkcombo.cx",
+          "desc": "APK Download — đạt 41K+ traffic/tháng",
+          "category": "SEO Quốc tế"
+        },
+        {
+          "name": "9proxy.com",
+          "desc": "Proxy quốc tế — tăng từ ~10K lên 32K+/tháng trong 3 tháng (~3x)",
+          "category": "SEO Quốc tế"
+        },
+        {
+          "name": "NAT Center",
+          "desc": "Phụ tùng ô tô — Top 1 từ khóa 'lốp Michelin NAT Center'",
+          "category": "Local SEO"
+        },
+        {
+          "name": "May balo & thời trang",
+          "desc": "Top 1 từ khóa 'may balo theo yêu cầu'",
+          "category": "E-commerce SEO"
+        }
+      ]
+    }
+  },
+  "tools": {
+    "title": "Công cụ sử dụng",
+    "subtitle": "Bộ công cụ SEO & Development chuyên nghiệp",
+    "footer": "Và nhiều công cụ khác để phân tích, tối ưu và theo dõi hiệu suất SEO",
+    "categories": {
+      "cms": {
+        "title": "CMS & Development",
+        "items": [
+          "WordPress",
+          "Plugin Development",
+          "HTML / CSS / JS",
+          "Công cụ SEO tùy chỉnh"
+        ]
+      },
+      "seo": {
+        "title": "Công cụ SEO",
+        "items": [
+          "Ahrefs",
+          "Semrush",
+          "Screaming Frog"
+        ]
+      },
+      "analytics": {
+        "title": "Analytics",
+        "items": [
+          "Google Analytics 4",
+          "Google Search Console",
+          "PageSpeed Insights"
+        ]
+      },
+      "productivity": {
+        "title": "AI & Tự động hóa",
+        "items": [
+          "ChatGPT",
+          "Claude AI",
+          "Google Sheets (tự động hóa)"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "subtitle": "Hãy kết nối với tôi",
+    "description": "Có dự án SEO cần tư vấn? Liên hệ với tôi qua email để thảo luận chi tiết.",
+    "email": {
+      "label": "Email",
+      "value": "trieuluan1506@gmail.com"
+    },
+    "cta": "Gửi email",
+    "form": {
+      "name": "Họ tên",
+      "namePlaceholder": "Nhập họ tên của bạn",
+      "email": "Email",
+      "emailPlaceholder": "email@cuaban.com",
+      "message": "Nội dung",
+      "messagePlaceholder": "Nội dung tin nhắn của bạn...",
+      "submit": "Gửi tin nhắn",
+      "success": "Tin nhắn đã được gửi thành công!"
+    }
+  },
+  "footer": {
+    "copyright": "© 2026 Trịnh Triệu Luân. Tất cả quyền được bảo lưu.",
+    "madeWith": "Làm với đam mê SEO & Web Dev"
+  },
+  "language": {
+    "vi": "Tiếng Việt",
+    "en": "English"
+  }
+}

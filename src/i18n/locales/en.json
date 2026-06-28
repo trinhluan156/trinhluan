@@ -1,0 +1,260 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "tools": "Tools",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "title": "TRINH TRIEU LUAN",
+    "subtitle": "SEO Specialist & Web Developer",
+    "description": "Nearly 2 years of hands-on experience growing organic traffic from 0 to 134K+/month. I combine SEO and Web Development — independently handling technical implementation, building custom tools, and expanding into international markets.",
+    "ctaProjects": "View Projects",
+    "ctaContact": "Contact Me",
+    "stats": {
+      "projects": "Projects at Once",
+      "traffic": "Peak Traffic/Month",
+      "keywords": "Competitive Keywords",
+      "growth": "Traffic Growth in 3 Months"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "SEO Specialist who codes",
+    "description1": "I'm an SEO Specialist with nearly 2 years of hands-on experience, specializing in building websites from scratch — from brand-new domains (zero traffic) to hundreds of thousands of monthly visits.",
+    "description2": "My key differentiator is combining SEO with Web Development: independently handling technical SEO, building custom in-house tools/plugins, and managing front-end development without relying on a dev team.",
+    "description3": "Currently expanding into international markets (proxy, VPN, APK) with English SEO experience, and integrating AI into every stage of my daily workflow.",
+    "approach": {
+      "title": "My Approach",
+      "dataDriven": {
+        "title": "Data-Driven",
+        "desc": "Decisions grounded in Ahrefs, GSC, and GA4 data"
+      },
+      "semantic": {
+        "title": "SEO + DEV Hybrid",
+        "desc": "End-to-end execution without dev team dependencies"
+      },
+      "authority": {
+        "title": "International Markets",
+        "desc": "English SEO for proxy, VPN, APK — competing globally"
+      },
+      "technical": {
+        "title": "AI-driven Workflow",
+        "desc": "AI integrated into research, audits, and custom tool development"
+      }
+    },
+    "stats": {
+      "traffic": "Peak Traffic/Month",
+      "projects": "Projects at Once",
+      "growth": "Growth in 3 Months",
+      "keywords": "Competitive Keywords"
+    }
+  },
+  "skills": {
+    "title": "Professional Skills",
+    "subtitle": "Full-stack SEO combined with Web Development",
+    "technical": {
+      "title": "Technical SEO",
+      "items": [
+        "Site Audit & Fix",
+        "Core Web Vitals",
+        "Schema Markup",
+        "Canonical & Redirect",
+        "E-E-A-T Optimization"
+      ]
+    },
+    "onpage": {
+      "title": "On-Page & Offpage",
+      "items": [
+        "Keyword Research & Mapping",
+        "Semantic SEO",
+        "Internal Linking (Silo)",
+        "Link Building",
+        "Competitor Analysis"
+      ]
+    },
+    "content": {
+      "title": "Web Development",
+      "items": [
+        "HTML / CSS / JavaScript",
+        "WordPress & Plugin Dev",
+        "Custom SEO Tool Building",
+        "Page Speed Optimization",
+        "UX/UI Fundamentals"
+      ]
+    },
+    "tools": {
+      "title": "Analytics & Reporting",
+      "items": [
+        "Google Analytics 4",
+        "Google Search Console",
+        "KPI Dashboard",
+        "Traffic Analysis",
+        "Keyword Ranking Tracking"
+      ]
+    },
+    "analytics": {
+      "title": "AI & Automation",
+      "items": [
+        "AI-driven Content Brief",
+        "Automated SEO Auditing",
+        "ChatGPT / Claude Workflow",
+        "Custom Plugin Development",
+        "Process Automation"
+      ]
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Real data from Ahrefs",
+    "featured": {
+      "label": "Flagship Project",
+      "industry": "Niche: APK Download (International Market)",
+      "duration": "Company: Ecomkey JSC | Jun 2025 – Mar 2026",
+      "results": "Results Achieved",
+      "traffic": {
+        "label": "Peak Traffic",
+        "from": "0",
+        "to": "134K+",
+        "desc": "happymod.cx — from new domain in under 1 year"
+      },
+      "keywords": {
+        "label": "Pages Indexed",
+        "value": "153",
+        "desc": "Pages indexed on happymod.cx"
+      },
+      "revenue": {
+        "label": "Projects Managed",
+        "value": "6+",
+        "desc": "Simultaneous projects at Ecomkey"
+      },
+      "strategy": {
+        "title": "Implementation Strategy",
+        "website": {
+          "title": "Web Development",
+          "items": [
+            "Built front-end from scratch (brand-new domain)",
+            "SEO-standard website architecture",
+            "Page speed & Core Web Vitals optimization",
+            "Built custom in-house plugins and tools",
+            "Deployed new features independently",
+            "UX/UI optimization for conversion"
+          ]
+        },
+        "seo": {
+          "title": "SEO Implementation",
+          "items": [
+            "Keyword research & mapping for APK market",
+            "Full onpage SEO (meta, schema, canonical)",
+            "Internal linking with Silo model",
+            "Offpage SEO & link building",
+            "Schema: Article, Breadcrumb, Organization, FAQ",
+            "Core Web Vitals & E-E-A-T optimization",
+            "Periodic audits via Ahrefs + Screaming Frog"
+          ]
+        }
+      }
+    },
+    "other": {
+      "title": "Other Projects",
+      "subtitle": "Diverse niches across domestic and international markets",
+      "items": [
+        {
+          "name": "dlmod.me",
+          "desc": "APK Download — reached 127K+ traffic/month from a new domain",
+          "category": "International SEO"
+        },
+        {
+          "name": "apkcombo.cx",
+          "desc": "APK Download — reached 41K+ traffic/month",
+          "category": "International SEO"
+        },
+        {
+          "name": "9proxy.com",
+          "desc": "International proxy — grew ~10K to 32K+/month in 3 months (~3x)",
+          "category": "International SEO"
+        },
+        {
+          "name": "NAT Center",
+          "desc": "Auto parts — #1 ranking for 'Michelin tires NAT Center'",
+          "category": "Local SEO"
+        },
+        {
+          "name": "Custom Bags & Apparel",
+          "desc": "#1 ranking for 'custom bag manufacturer' keyword",
+          "category": "E-commerce SEO"
+        }
+      ]
+    }
+  },
+  "tools": {
+    "title": "Tools I Use",
+    "subtitle": "Professional SEO & Development toolkit",
+    "footer": "And many more tools for analysis, optimization, and SEO performance tracking",
+    "categories": {
+      "cms": {
+        "title": "CMS & Development",
+        "items": [
+          "WordPress",
+          "Plugin Development",
+          "HTML / CSS / JS",
+          "Custom SEO Tools"
+        ]
+      },
+      "seo": {
+        "title": "SEO Tools",
+        "items": [
+          "Ahrefs",
+          "Semrush",
+          "Screaming Frog"
+        ]
+      },
+      "analytics": {
+        "title": "Analytics",
+        "items": [
+          "Google Analytics 4",
+          "Google Search Console",
+          "PageSpeed Insights"
+        ]
+      },
+      "productivity": {
+        "title": "AI & Automation",
+        "items": [
+          "ChatGPT",
+          "Claude AI",
+          "Google Sheets (automation)"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's connect",
+    "description": "Have an SEO project that needs consultation? Contact me via email to discuss the details.",
+    "email": {
+      "label": "Email",
+      "value": "trieuluan1506@gmail.com"
+    },
+    "cta": "Send Email",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "message": "Message",
+      "messagePlaceholder": "Your message...",
+      "submit": "Send Message",
+      "success": "Message sent successfully!"
+    }
+  },
+  "footer": {
+    "copyright": "© 2026 Trinh Trieu Luan. All rights reserved.",
+    "madeWith": "Made with passion for SEO & Web Dev"
+  },
+  "language": {
+    "vi": "Tiếng Việt",
+    "en": "English"
+  }
+}
