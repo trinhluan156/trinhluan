@@ -1,6 +1,7 @@
 {
   "nav": {
     "about": "Giới thiệu",
+    "experience": "Kinh nghiệm",
     "skills": "Kỹ năng",
     "projects": "Dự án",
     "tools": "Công cụ",
@@ -237,7 +238,15 @@
       "label": "Email",
       "value": "trieuluan1506@gmail.com"
     },
-    "cta": "Gửi email",
+    "cta": "Gửi email ngay",
+    "phone": {
+      "label": "Điện thoại",
+      "value": "(+84) 348 421 506"
+    },
+    "portfolio": {
+      "label": "Portfolio",
+      "value": "https://trinhluan156.github.io/trinhluan/"
+    },
     "form": {
       "name": "Họ tên",
       "namePlaceholder": "Nhập họ tên của bạn",

@@ -2,7 +2,7 @@ import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
 import { useInView } from 'framer-motion';
 import { useRef, useState } from 'react';
-import { Mail, Send, CheckCircle } from 'lucide-react';
+import { Mail, Send, CheckCircle, Phone, Globe } from 'lucide-react';
 
 export function Contact() {
   const { t } = useTranslation();
@@ -60,18 +60,56 @@ export function Contact() {
             </p>
 
             {/* Email Card */}
-            <div className="bg-slate-800/50 rounded-2xl p-6 border border-slate-700/50 mb-8">
+            <div className="bg-slate-800/50 rounded-2xl p-6 border border-slate-700/50 mb-4">
               <div className="flex items-center gap-4">
                 <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-sky-500/20 to-emerald-500/20 flex items-center justify-center">
                   <Mail className="w-6 h-6 text-sky-400" />
                 </div>
                 <div>
                   <p className="text-slate-400 text-sm mb-1">{t('contact.email.label')}</p>
-                  <a 
+                  <a
                     href={`mailto:${t('contact.email.value')}`}
                     className="text-white font-medium hover:text-sky-400 transition-colors"
                   >
                     {t('contact.email.value')}
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            {/* Phone Card */}
+            <div className="bg-slate-800/50 rounded-2xl p-6 border border-slate-700/50 mb-4">
+              <div className="flex items-center gap-4">
+                <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-emerald-500/20 to-teal-500/20 flex items-center justify-center">
+                  <Phone className="w-6 h-6 text-emerald-400" />
+                </div>
+                <div>
+                  <p className="text-slate-400 text-sm mb-1">{t('contact.phone.label')}</p>
+                  <a
+                    href={`tel:${t('contact.phone.value')}`}
+                    className="text-white font-medium hover:text-emerald-400 transition-colors"
+                  >
+                    {t('contact.phone.value')}
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            {/* Portfolio Card */}
+            <div className="bg-slate-800/50 rounded-2xl p-6 border border-slate-700/50 mb-8">
+              <div className="flex items-center gap-4">
+                <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-purple-500/20 to-pink-500/20 flex items-center justify-center">
+                  <Globe className="w-6 h-6 text-purple-400" />
+                </div>
+                <div>
+                  <p className="text-slate-400 text-sm mb-1">{t('contact.portfolio.label')}</p>
+                  <a
+                    href={t('contact.portfolio.value')}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-white font-medium hover:text-purple-400 transition-colors"
+                  >
+                    trinhluan156.github.io/trinhluan
                   </a>
                 </div>
               </div>

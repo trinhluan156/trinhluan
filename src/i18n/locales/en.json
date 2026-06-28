@@ -1,6 +1,7 @@
 {
   "nav": {
     "about": "About",
+    "experience": "Experience",
     "skills": "Skills",
     "projects": "Projects",
     "tools": "Tools",
@@ -238,6 +239,14 @@
       "value": "trieuluan1506@gmail.com"
     },
     "cta": "Send Email",
+    "phone": {
+      "label": "Phone",
+      "value": "(+84) 348 421 506"
+    },
+    "portfolio": {
+      "label": "Portfolio",
+      "value": "https://trinhluan156.github.io/trinhluan/"
+    },
     "form": {
       "name": "Name",
       "namePlaceholder": "Your name",
