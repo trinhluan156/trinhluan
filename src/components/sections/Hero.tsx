@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
-import { ArrowDown, TrendingUp, Target, BarChart3 } from 'lucide-react';
+import { ArrowDown, TrendingUp, Target, BarChart3, Download } from 'lucide-react';
 import { useEffect, useState, useRef } from 'react';
 
 function AnimatedCounter({ end, duration = 2000, prefix = '', suffix = '' }: { 
@@ -58,7 +58,10 @@ function AnimatedCounter({ end, duration = 2000, prefix = '', suffix = '' }: {
 }
 
 export function Hero() {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const cvUrl = i18n.language === 'en'
+    ? '/trinhluan/CV%20%E2%80%94%20Trinh%20Trieu%20Luan_EN.pdf'
+    : '/trinhluan/CV%20%E2%80%94%20Tr%E1%BB%8Bnh%20Tri%E1%BB%87u%20Lu%C3%A2n.pdf';
 
   const stats = [
     { icon: TrendingUp, value: 6, suffix: '+', label: t('hero.stats.projects') },
@@ -180,6 +183,14 @@ export function Hero() {
             >
               {t('hero.ctaContact')}
             </button>
+            <a
+              href={cvUrl}
+              download
+              className="px-8 py-4 rounded-full border border-emerald-500/50 text-emerald-400 font-semibold hover:bg-emerald-500/10 hover:border-emerald-400 transition-all duration-300 flex items-center gap-2"
+            >
+              <Download className="w-5 h-5" />
+              {t('hero.ctaDownload')}
+            </a>
           </motion.div>
 
           {/* Stats */}

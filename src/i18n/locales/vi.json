@@ -14,6 +14,7 @@
     "description": "Gần 2 năm kinh nghiệm thực chiến, tăng organic traffic từ 0 lên 134K+/tháng. Tôi kết hợp SEO và Web Development — tự triển khai kỹ thuật, tự build công cụ và mở rộng sang thị trường quốc tế.",
     "ctaProjects": "Xem dự án",
     "ctaContact": "Liên hệ ngay",
+    "ctaDownload": "Tải CV",
     "stats": {
       "projects": "Dự án cùng lúc",
       "traffic": "Traffic đỉnh/tháng",
@@ -165,12 +166,12 @@
         {
           "name": "dlmod.me",
           "desc": "APK Download — đạt 127K+ traffic/tháng từ domain mới",
-          "category": "SEO Quốc tế"
+          "category": "SEO Trong nước"
         },
         {
           "name": "apkcombo.cx",
           "desc": "APK Download — đạt 41K+ traffic/tháng",
-          "category": "SEO Quốc tế"
+          "category": "SEO Trong nước"
         },
         {
           "name": "9proxy.com",
